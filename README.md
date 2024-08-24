@@ -1,3 +1,2 @@
 # Discord-message-deleter
-メッセージ削除コマンド
-トークンを指定すれば使用可能
+You can delete messages using c<clear <amount>. (Up to 100)
